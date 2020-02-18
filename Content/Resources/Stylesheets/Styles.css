@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -58,6 +58,7 @@ ul
 img
 {
 	border: none;
+	max-width: 100%;
 }
 
 a.Popup
@@ -88,8 +89,10 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
-img[alt] {
-    color: blue;
-    font-style: italic;
-    font-size: 14px;
+img[alt]
+{
+	color: blue;
+	font-style: italic;
+	font-size: 14px;
 }
+

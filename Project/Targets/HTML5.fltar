@@ -6,7 +6,7 @@
   Destinations=""
   ShowMadCapBacklink="true"
   GlossaryTermConversion="marked"
-  MasterPage="/Content/Resources/OtherTopics.flmsp"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
   MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
   <PrintedOutput
     CollapseMargins="true"
