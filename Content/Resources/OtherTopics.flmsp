@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+	
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: Forward Back Print;" />
+
+        <MadCap:bodyProxy />
+        <MadCap:miniTocProxy />
+    </body>
+</html>

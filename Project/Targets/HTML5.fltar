@@ -1,14 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
-	Comment="MadCap HTML5 Target"
-	Type="WebHelp2"
-	Destinations=""
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
   ShowMadCapBacklink="true"
-  GlossaryTermConversion="marked">
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/OtherTopics.flmsp"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true"/>
+    GenerateGlossaryProxy="true" />
 </CatapultTarget>

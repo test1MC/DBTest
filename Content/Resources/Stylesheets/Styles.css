@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -88,3 +88,8 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+img[alt] {
+    color: blue;
+    font-style: italic;
+    font-size: 14px;
+}
